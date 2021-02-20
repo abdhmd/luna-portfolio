@@ -1,4 +1,3 @@
-// https://api.github.com/users/sirhmd0/repos
 
 const btn = document.querySelector(".nav-btn");
 const links = document.querySelectorAll("nav a");
